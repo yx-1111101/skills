@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI产品分析"
+  short_description: "系统分析AI产品的用户价值、工作流、成本结构与竞争优势"
+  default_prompt: "Use $analyze-ai-product to evaluate this AI product in terms of users, workflow, differentiation, economics, and risks."
