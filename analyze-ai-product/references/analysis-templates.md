@@ -13,14 +13,21 @@ Use these selectively. Do not force every answer into every section.
 ## Full Product Memo
 
 - Product thesis: What is the company or feature trying to win at?
+- Team and organization: Who is building it, and what capability does that imply?
+- Product philosophy: What core belief about AI products shows up in the design?
+- Market positioning: Which market, segment, and buyer does it target?
 - Target user: Who feels the pain most acutely?
 - Workflow: What is the full before-and-after flow?
+- Business model: How does it make money, and how does the pricing map to value?
+- Product matrix: What products, tiers, or surfaces make up the overall offering?
+- Financing: What rounds, investors, and timing are public, and what do they signal?
+- Technical advantage: What part of the stack appears strongest?
 - Differentiation: Why not use a prompt in a general tool?
 - Value capture: Why would a user or team pay?
 - GTM: What is the likely acquisition wedge?
 - Defensibility: Data, workflow, brand, distribution, community, or none?
 - Risks: What could break the business or product thesis?
-- Recommendation: Build, invest, copy, partner, or avoid?
+- Recommendation: Why did it get funded, what is learnable, and what future path looks most plausible?
 
 ## Competitor Comparison
 
@@ -42,6 +49,9 @@ Use these selectively. Do not force every answer into every section.
 
 ## Investor-Style Questions
 
+- Who are the founders and why are they credible for this market?
+- What organization is required to ship and improve this product category well?
+- Why did this company get funded instead of another similar team?
 - Is demand driven by novelty or recurring pain?
 - Is the product improving from usage data or staying static?
 - Is margin likely to improve over time?
