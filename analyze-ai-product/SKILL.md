@@ -5,7 +5,7 @@ description: Analyze AI products, AI agents, AI features, copilots, model-driven
 
 # Analyze Ai Product
 
-Enable product analysis that treats AI products as systems, not just feature lists. Focus on user job, workflow closure, model capability fit, trust, economics, distribution, and defensibility.
+Enable AI product analysis from a venture-replication lens rather than a feature checklist. Use system-level teardown to identify the product's success factors, technical advantages, product advantages, structural weaknesses, and which parts of the model, workflow, distribution, economics, and execution could be reused to build a new startup in the same space.
 
 ## Minimum Coverage
 
