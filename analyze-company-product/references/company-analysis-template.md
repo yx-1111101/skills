@@ -7,13 +7,13 @@ Use this template when the user wants a fuller company or financing-oriented ana
 - Team and organization:
   Founders, key leaders, notable backgrounds, and visible org capability. If structure is not public, give a cautious inference.
 - Product philosophy and positioning:
-  What the company believes about AI products, who it serves, and how it positions itself.
+  What the company believes about the product or market, who it serves, and how it positions itself.
 - Financing:
   Rounds, investors, dates, disclosed amounts, and what this financing pattern implies.
 - Commercial model and product matrix:
   Revenue model, pricing motion, customer tiers, and product lineup.
 - Technical advantage:
-  Model, infra, workflow, data, eval, or integration edge. Distinguish core tech from packaging.
+  Technology, infrastructure, workflow, data, integration, supply, brand, or execution edge. Distinguish core capability from packaging.
 - Final judgment:
   Main strengths, why the company won funding, what is worth learning from, and objective future outlook.
 

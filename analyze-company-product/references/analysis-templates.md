@@ -7,22 +7,22 @@ Use these selectively. Do not force every answer into every section.
 - Product: What does it actually do in one sentence?
 - User: Who is it really for?
 - Job: What painful task does it reduce or remove?
-- AI role: Where exactly does AI create value?
+- Core advantage: Where exactly is the value created?
 - Verdict: Why might this product work, and what is the biggest doubt?
 
 ## Full Product Memo
 
 - Product thesis: What is the company or feature trying to win at?
 - Team and organization: Who is building it, and what capability does that imply?
-- Product philosophy: What core belief about AI products shows up in the design?
+- Product philosophy: What core belief about the product or market shows up in the design?
 - Market positioning: Which market, segment, and buyer does it target?
 - Target user: Who feels the pain most acutely?
 - Workflow: What is the full before-and-after flow?
 - Business model: How does it make money, and how does the pricing map to value?
 - Product matrix: What products, tiers, or surfaces make up the overall offering?
 - Financing: What rounds, investors, and timing are public, and what do they signal?
-- Technical advantage: What part of the stack appears strongest?
-- Differentiation: Why not use a prompt in a general tool?
+- Technical or operating advantage: What part of the stack or operating model appears strongest?
+- Differentiation: Why not use a simpler alternative or incumbent product?
 - Value capture: Why would a user or team pay?
 - GTM: What is the likely acquisition wedge?
 - Defensibility: Data, workflow, brand, distribution, community, or none?
@@ -34,7 +34,7 @@ Use these selectively. Do not force every answer into every section.
 - Segment: Which user and use case does each product target?
 - Workflow: Which product closes more of the job?
 - UX: Which one reduces user effort more effectively?
-- AI quality: Which one is more sensitive to model errors or latency?
+- Capability quality: Which one is more sensitive to quality, reliability, or delivery risk?
 - Pricing: Which one aligns better with perceived value?
 - Moat: Which one has the stronger long-term edge?
 - Verdict: Which one is more likely to sustain advantage?
@@ -55,5 +55,5 @@ Use these selectively. Do not force every answer into every section.
 - Is demand driven by novelty or recurring pain?
 - Is the product improving from usage data or staying static?
 - Is margin likely to improve over time?
-- Is the team building a workflow company or a wrapper company?
+- Is the team building a real operating advantage or a thin layer on top of generic capabilities?
 - What non-obvious asset could become the moat?
