@@ -5,11 +5,11 @@ description: Analyze companies, products, startups, apps, software, platforms, c
 
 # Analyze Company Product
 
-Enable general company and product analysis rather than a feature checklist. Use structured teardown to identify success factors, product advantages, technical or operational advantages, structural weaknesses, market positioning, financing signals, and future prospects across different kinds of companies and products.
+Provide company and product analysis in a consulting or investment memo style, not as a feature inventory. Focus on where value is created, why the offering works or fails, what advantage is structural versus temporary, and what the financing, organization, and market position imply for future outcomes.
 
 ## Minimum Coverage
 
-When evidence is available, the analysis should include at least these six parts:
+When evidence permits, cover at least these six sections:
 
 1. Team background and organization.
 - Identify founders, key executives, notable prior experience, and any visible product or research organization structure.
@@ -32,8 +32,8 @@ When evidence is available, the analysis should include at least these six parts
 - Separate true capability lead from packaging or marketing strength.
 
 6. Overall judgment.
-- Analyze the product's strengths, why it was able to get funded, what its success factors are, what is reusable as a lesson, and what its future outlook looks like.
-- Keep this section objective: include upside, downside, execution risk, and platform or market risk.
+- Explain the core strengths, funding logic, critical success factors, and forward outlook.
+- Keep the judgment balanced: include upside, downside, execution risk, and market or platform risk.
 
 ## Workflow
 
@@ -60,16 +60,16 @@ When evidence is available, the analysis should include at least these six parts
 
 6. Add company and financing context when relevant.
 - Gather team background, funding history, market timing, and org clues.
-- Use these signals to explain not just what the product is, but why the company may have attracted capital and attention.
+- Use these signals to explain why the company attracted capital, attention, or strategic advantage.
 
 7. End with an opinionated judgment.
-- State why the product works or does not.
-- Highlight the single strongest lever and the single biggest weakness.
-- Suggest what to test, improve, or compare next.
+- State the central investment or strategic view.
+- Highlight the strongest driver and the most material weakness.
+- Indicate the key issue to monitor next.
 
 ## Core Analysis Lens
 
-When analyzing a company or product, always check these questions:
+Use these questions as the core analytical lens:
 
 - Is the user problem painful enough to create real demand?
 - Does the workflow save time end to end, or only in one flashy step?
@@ -80,7 +80,7 @@ When analyzing a company or product, always check these questions:
 
 ## Default Output Shape
 
-Use this order unless the user asks for a different format:
+Default structure:
 
 1. Product one-liner.
 2. Team background and organizational context.
@@ -91,18 +91,27 @@ Use this order unless the user asks for a different format:
 7. Technical advantage and competitive position.
 8. Main strengths, key reasons it won funding, reusable lessons, and future outlook.
 
-For deeper analysis, add retention, GTM, roadmap implications, and downside scenarios.
+For deeper work, add retention, GTM, roadmap implications, and downside scenarios.
 
 ## Useful Modes
 
-- Quick teardown: explain what it is, who it is for, and the main verdict in under 250 words.
-- Competitor comparison: compare user segment, workflow, moat, UX, pricing, and likely winner.
-- PM review: focus on onboarding, habit loop, retention, and feature prioritization.
-- Founder or investor memo: emphasize market pull, economics, defensibility, and execution risk.
-- Company profile: emphasize founding team, org capability, capital history, and strategic direction.
-- AI-specific review: if the company is AI-native, add model fit, trust, latency, and wrapper risk.
+- Quick note: concise view on product, user, core advantage, and verdict.
+- Competitor comparison: compare segment, workflow, pricing, moat, and likely relative position.
+- PM review: focus on onboarding, retention logic, and prioritization.
+- Founder or investor memo: focus on market pull, economics, defensibility, and execution risk.
+- Company profile: focus on team, org capability, capital history, and strategic direction.
+- AI-native appendix: if relevant, add model fit, trust, latency, and wrapper risk.
 - Strategy critique: focus on positioning, wedge, platform risk, and expansion path.
-- Feature diagnosis: analyze one feature inside a larger product instead of the whole company.
+- Feature diagnosis: analyze one feature inside a larger company or product.
+
+## Writing Style
+
+- Write in a crisp, report-like tone.
+- Lead with the conclusion, then support it with evidence.
+- Prefer short declarative sentences over conversational explanation.
+- Separate fact, inference, and judgment.
+- Avoid hype, marketing language, and generic praise.
+- Use headings that read like memo sections, not tutorial steps.
 
 ## Quality Bar
 

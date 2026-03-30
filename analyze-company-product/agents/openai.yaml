@@ -1,4 +1,4 @@
 interface:
   display_name: "公司与产品分析"
   short_description: "系统分析任何公司或产品的定位、优势、融资与前景"
-  default_prompt: "Use $analyze-company-product to analyze this company or product in terms of positioning, strengths, financing, risks, and future outlook."
+  default_prompt: "Use $analyze-company-product to produce a concise memo on this company or product covering positioning, strengths, financing, risks, and outlook."

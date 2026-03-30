@@ -1,59 +1,59 @@
 # Analysis Templates
 
-Use these selectively. Do not force every answer into every section.
+Use selectively. Keep the output concise, structured, and conclusion-led.
 
 ## Quick Teardown
 
-- Product: What does it actually do in one sentence?
-- User: Who is it really for?
-- Job: What painful task does it reduce or remove?
-- Core advantage: Where exactly is the value created?
-- Verdict: Why might this product work, and what is the biggest doubt?
+- Thesis: What does the company or product do, and why does it matter?
+- Target user: Who is the real customer?
+- Job to be done: What pain point is being addressed?
+- Source of advantage: Where is value actually created?
+- Bottom line: What is the strongest reason to believe, and the main reason for caution?
 
 ## Full Product Memo
 
-- Product thesis: What is the company or feature trying to win at?
-- Team and organization: Who is building it, and what capability does that imply?
-- Product philosophy: What core belief about the product or market shows up in the design?
-- Market positioning: Which market, segment, and buyer does it target?
-- Target user: Who feels the pain most acutely?
-- Workflow: What is the full before-and-after flow?
-- Business model: How does it make money, and how does the pricing map to value?
-- Product matrix: What products, tiers, or surfaces make up the overall offering?
-- Financing: What rounds, investors, and timing are public, and what do they signal?
-- Technical or operating advantage: What part of the stack or operating model appears strongest?
-- Differentiation: Why not use a simpler alternative or incumbent product?
-- Value capture: Why would a user or team pay?
-- GTM: What is the likely acquisition wedge?
-- Defensibility: Data, workflow, brand, distribution, community, or none?
-- Risks: What could break the business or product thesis?
-- Recommendation: Why did it get funded, what is learnable, and what future path looks most plausible?
+- Thesis: What is the company or product trying to win?
+- Team and organization: Who is building it, and what does that imply about capability?
+- Product philosophy: What belief about the market or product is visible in the design?
+- Positioning: Which market, segment, and buyer does it target?
+- Target user: Who has the strongest need?
+- Workflow: What is the actual operating or user flow?
+- Business model: How is value monetized?
+- Product matrix: What products, tiers, or surfaces make up the offering?
+- Financing: What capital has been raised, from whom, and what does it signal?
+- Advantage: Where is the strongest technical or operating edge?
+- Differentiation: Why this product over a simpler alternative or incumbent?
+- Value capture: Why will customers pay and stay?
+- GTM: What is the acquisition wedge?
+- Defensibility: What, if anything, compounds into moat?
+- Risks: What could break the thesis?
+- Conclusion: Why did it get funded, what is worth learning, and what path looks most plausible?
 
 ## Competitor Comparison
 
-- Segment: Which user and use case does each product target?
-- Workflow: Which product closes more of the job?
-- UX: Which one reduces user effort more effectively?
-- Capability quality: Which one is more sensitive to quality, reliability, or delivery risk?
-- Pricing: Which one aligns better with perceived value?
-- Moat: Which one has the stronger long-term edge?
-- Verdict: Which one is more likely to sustain advantage?
+- Segment: Which user and use case does each player target?
+- Workflow: Which offering closes more of the job?
+- UX: Which reduces customer effort more effectively?
+- Reliability: Which is more exposed to quality or delivery risk?
+- Pricing: Which aligns better with perceived value?
+- Moat: Which has the stronger long-term edge?
+- Verdict: Which is better positioned to sustain advantage?
 
 ## PM Diagnosis
 
 - Activation: How quickly does a new user reach first value?
-- Trust: How does the product handle wrong or partial outputs?
-- Retention: What repeat loop would bring the user back?
-- Expansion: Is there a natural path from single-player to team or platform?
-- Priority: What is the highest-leverage next improvement?
+- Trust: Where does the experience break under imperfect delivery?
+- Retention: What creates repeat usage?
+- Expansion: Is there a credible path to broader usage or higher spend?
+- Priority: What is the highest-leverage next move?
 
 ## Investor-Style Questions
 
-- Who are the founders and why are they credible for this market?
-- What organization is required to ship and improve this product category well?
-- Why did this company get funded instead of another similar team?
-- Is demand driven by novelty or recurring pain?
-- Is the product improving from usage data or staying static?
-- Is margin likely to improve over time?
-- Is the team building a real operating advantage or a thin layer on top of generic capabilities?
-- What non-obvious asset could become the moat?
+- Why are the founders credible in this market?
+- What organization is required to execute well in this category?
+- Why did this company get funded versus close substitutes?
+- Is demand novelty-driven or pain-driven?
+- Does the product improve with usage or remain static?
+- Is the margin structure likely to improve?
+- Is the company building a durable operating advantage or a thin layer over generic supply?
+- What underappreciated asset could become moat?
