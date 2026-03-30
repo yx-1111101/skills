@@ -5,7 +5,7 @@ description: Analyze AI products, AI agents, AI features, copilots, model-driven
 
 # Analyze Ai Product
 
-Enable AI product analysis from a venture-replication lens rather than a feature checklist. Use system-level teardown to identify the product's success factors, technical advantages, product advantages, structural weaknesses, and which parts of the model, workflow, distribution, economics, and execution could be reused to build a new startup in the same space.
+Enable AI product analysis from a venture-replication lens rather than a feature checklist. Use system-level teardown to identify the product's success factors, technical advantages, product advantages, structural weaknesses, and the strategic patterns, capabilities, or choices that may be transferable to building a new company in a related space.
 
 ## Minimum Coverage
 
