@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文解读"
+  short_description: "系统解读学术论文的核心贡献、方法设计、实验依据与局限性"
+  default_prompt: "Use $decode-paper to explain this paper's core idea, method, evidence, and limitations in plain language."
