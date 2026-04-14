@@ -1,0 +1,4 @@
+interface:
+  display_name: "原型质量评审"
+  short_description: "系统评审原型的交互设计、流程完整性与交付就绪程度"
+  default_prompt: "Use $review-prototype-quality to evaluate this prototype's flow completeness, interaction clarity, visual hierarchy, content coverage, and readiness for testing or handoff."
